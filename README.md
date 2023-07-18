@@ -1,6 +1,6 @@
 # Welcome To Tech Punit Github Workspace
 
-## improve your tech experience .
+## try to improve your tech experience in full satck development .
 
 - 👋 Hi, I’m @tech punit
 - 👀 I’m interested in web app development
